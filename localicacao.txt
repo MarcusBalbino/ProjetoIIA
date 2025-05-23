@@ -1,17 +1,17 @@
-Associação de Agricultores Familiares da Eco Comunidade do Assentamento 15 de Agosto (Afeca) – São Sebastião  -15.911257322468854, -47.72131987698071
-Associação Agrícola do Distrito Federal e Ride (Agrifam) – Taguatinga, Gama, Santa Maria  -16.033332269528525, -48.02194559697238 (aproximado)
-Associação Mista dos Agricultores Familiares, Orgânicos e Produtores Rurais do DF e Entorno (Amista) – Santa Maria -15.763959936767963, -47.49298390178075 (aproximado)
-Associação dos Produtores da Agricultura Familiar  (Aspaf) – Guará, Núcleo Bandeirante, Plano Piloto -15.680704256671605, -48.204481263228885 
-Associação dos Produtores Rurais de Alexandre Gusmão (AsSpag) – Brazlândia -15.756719533443205, -48.12660143651946
-Associação dos Produtores de Hortigranjeiros do Distrito Federal (Asphor) -15.796015013316007, -47.95031196939317
-Associação dos Produtores Rurais Orgânicos e Convencionais do Distrito Federal e Entorno (Asproc) – Ceilândia, Recanto das Emas, Samambaia, Paranoá, Planaltina-15.671024486215536, -48.13831575695135
-Associação dos Produtores Rurais Novo Horizonte Betinho (Aspronte) – Ceilândia, Recanto Das Emas -15.598206767692025, -48.124069244099275
-Associação dos Trabalhadores Rurais da Agricultura Familiar do Assentamento Chapadinha (Astraf) – Guará -15.542807850627778, -48.02983303362831
-Cooperativa Mista da Agricultura Familiar do Meio Ambiente e da Cultura do Brasil (Coopbrasil) – Gama, Recanto das Emas, Samambaia, Núcleo Bandeirante, Planaltina, Brazlândia, Ceilândia -16.25490982477886, -47.95523828036136
-Cooperativa Agrícola Buriti Vermelho (Cooper-Horti) – Paranoá -15.898669835597419, -47.40685178022046
-Cooperativa dos Produtores Rurais de Planaltina de Goiás e Região (Prorural) – Plano Piloto, Paranoá -15.44566180715857, -47.61898200913563
-Cooperativa Agropecuária da Região de Brazlândia (Coopebraz) – Brazlândia, Taguatinga, Samambaia, Recanto das Emas -15.598018611676984, -48.11806404508394
-Cooperativa de Agricultura Familiar Mista do Distrito Federal (Coopermista) – Planaltina -15.764173354290381, -47.49167060443745
-Cooperativa dos Agricultores Familiares Ecológicos do Cerrado (Rede Terra) – Santa Maria -16.749588317495615, -47.61598414282499
-Cooperativa Agrícola da Região de Planaltina  (Cootaquara) – Ceilândia -15.633270200233193, -47.52254805570911
-Cooperativa de Serviços Ambientais, Agricultura Familiar, Sociedade, Cultura e Saúde (Cooperbrasília) – Sobradinho, São Sebastião -15.938126193908477, -47.82535903093143
+Associação de Agricultores Familiares da Eco Comunidade do Assentamento 15 de Agosto (Afeca) -15.911257322468854 -47.72131987698071
+Associação Agrícola do Distrito Federal e Ride (Agrifam) -16.033332269528525 -48.02194559697238
+Associação Mista dos Agricultores Familiares, Orgânicos e Produtores Rurais do DF e Entorno (Amista) -15.763959936767963 -47.49298390178075
+Associação dos Produtores da Agricultura Familiar  (Aspaf) -15.680704256671605 -48.204481263228885 
+Associação dos Produtores Rurais de Alexandre Gusmão (AsSpag) -15.756719533443205 -48.12660143651946
+Associação dos Produtores de Hortigranjeiros do Distrito Federal (Asphor) -15.796015013316007 -47.95031196939317
+Associação dos Produtores Rurais Orgânicos e Convencionais do Distrito Federal e Entorno (Asproc) -15.671024486215536 -48.13831575695135
+Associação dos Produtores Rurais Novo Horizonte Betinho (Aspronte) -15.598206767692025 -48.124069244099275
+Associação dos Trabalhadores Rurais da Agricultura Familiar do Assentamento Chapadinha (Astraf) -15.542807850627778 -48.02983303362831
+Cooperativa Mista da Agricultura Familiar do Meio Ambiente e da Cultura do Brasil (Coopbrasil) -16.25490982477886 -47.95523828036136
+Cooperativa Agrícola Buriti Vermelho (Cooper-Horti) -15.898669835597419 -47.40685178022046
+Cooperativa dos Produtores Rurais de Planaltina de Goiás e Região (Prorural) -15.44566180715857 -47.61898200913563
+Cooperativa Agropecuária da Região de Brazlândia (Coopebraz) -15.598018611676984 -48.11806404508394
+Cooperativa de Agricultura Familiar Mista do Distrito Federal (Coopermista) -15.764173354290381 -47.49167060443745
+Cooperativa dos Agricultores Familiares Ecológicos do Cerrado (Rede Terra) -16.749588317495615 -47.61598414282499
+Cooperativa Agrícola da Região de Planaltina  (Cootaquara) -15.633270200233193 -47.52254805570911
+Cooperativa de Serviços Ambientais, Agricultura Familiar, Sociedade, Cultura e Saúde (Cooperbrasília) -15.938126193908477 -47.82535903093143
