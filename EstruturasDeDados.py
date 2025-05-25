@@ -1,5 +1,4 @@
-# Transformando o OlericolasFrutas.txt em um dataframe e convertendo para um csv
-associacoes_cooperativas = {
+localidades = {
     "Afeca": {"nome": "Associação de Agricultores Familiares da Eco Comunidade do Assentamento 15 de Agosto", "coordenadas": (-15.911257322468854, -47.72131987698071)},
     "Agrifam": {"nome": "Associação Agrícola do Distrito Federal e Ride", "coordenadas": (-16.033332269528525, -48.02194559697238)},
     "Amista": {"nome": "Associação Mista dos Agricultores Familiares, Orgânicos e Produtores Rurais do DF e Entorno", "coordenadas": (-15.763959936767963, -47.49298390178075)},
@@ -56,3 +55,12 @@ alimentos = {
     "Pitaia": {"tipo": "fruta", "sazonalidade": "verão", "nutrientes": ["antioxidantes", "vitamina C", "fibras"]},
     "Mamão": {"tipo": "fruta", "sazonalidade": "ano todo", "nutrientes": ["vitamina A", "fibras", "antioxidantes"]},
 }
+
+def get_localidades():
+    return localidades
+
+def get_alimentos():
+    return alimentos
+
+#for i in get_alimentos().items():
+    print(i)
