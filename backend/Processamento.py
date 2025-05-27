@@ -1,7 +1,7 @@
 import pandas as pd
 import ast
 from geopy.distance import geodesic
-from EstruturasDeDados import get_alimentos, get_localidades
+import estruturadedados
 
 # Transformando a estrutura de dados em arquivo .csv
 
@@ -15,7 +15,7 @@ def to_csv(dados, nome_arquivo):
 # Processamento de distância
 
 def calcula_distancia(usuario, distribuidora=None):
-    df_localidades = pd.read_csv("localidades.csv", index_col=0)
+    df_localidades = pd.read_csv("backend/localidades.csv", index_col=0)
     if distribuidora:
         distancia = geodesic(usuario, distribuidora).km
         print(f'A sua distancia para a {distribuidora}'/
