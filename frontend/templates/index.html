@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <title>Localização e Cooperativas</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css">
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+</head>
+<body>
+
+    <!-- Mapa -->
+    <h1>Selecione uma cooperativa para calcular a distância</h1>
+    <div id="map" style="height: 500px;"></div>
+
+    <!-- Formulário para escolha de cooperativas -->
+    <label for="cooperativa">Escolha a Cooperativa:</label>
+    <select id="cooperativa">
+        <option value="-15.672,-48.200">Cooperativa A</option>
+        <option value="-15.815,-48.110">Cooperativa B</option>
+    </select>
+
+    <button onclick="calcularDistancia()">Calcular Distância</button>
+    <p id="resultado"></p>
+
+    <script src="{{ url_for('static', filename='js/map.js') }}"></script>
+</body>
+</html>
